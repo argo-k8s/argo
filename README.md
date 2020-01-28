@@ -9,7 +9,7 @@ An end-user centered Kubernetes dashboard to run apps in the cloud. One click to
 * Each community can have a suite of apps deployed.
 * Apps are described as [Helm](https://helm.sh/) [Charts](https://helm.sh/docs/topics/charts/).
 * Deployment to an underlying Kubernetes cluster is hidden from the user, but can still inspect it if the user interested/knowledgable.
-* Support for easy upgrade to new versions of apps.
+* Support for easy upgrade to new versions of apps: allowing admins to enable auto-upgrade or to trigger upgrades manually.
 * Out-of-the-box security best practices for managing a cluter and running apps.
 * Automatic domain (including custom domains) and SSL management.
 * Automatic backup of data and easy recovery.
