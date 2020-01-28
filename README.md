@@ -7,7 +7,7 @@ An end-user centered Kubernetes dashboard to run apps in the cloud. One click to
 * Allow users to create their own communities, create user groups, and manage users (leveraging [Charon](https://gitlab.com/charon/charon/)) accross a suite of apps,
   with SSO accross all apps and communities.
 * Each community can have a suite of apps deployed.
-* Apps are described as [Helm](https://helm.sh/) [Charts](https://helm.sh/docs/topics/charts/).
+* Apps are described as [Helm](https://helm.sh/) [Charts](https://helm.sh/docs/topics/charts/) with additional metadata to enable deep integration with other apps and the platform itself.
 * Deployment to an underlying Kubernetes cluster is hidden from the user, but can still inspect it if the user interested/knowledgable.
 * Support for easy upgrade to new versions of apps: allowing admins to enable auto-upgrade or to trigger upgrades manually.
 * Out-of-the-box security best practices for managing a cluter and running apps.
