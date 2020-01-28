@@ -12,6 +12,8 @@ An end-user centered Kubernetes dashboard to run apps in the cloud. One click to
 * Support for easy upgrade to new versions of apps.
 * Out-of-the-box security best practices for managing a cluter and running apps.
 * Automatic domain (including custom domains) and SSL management.
+* Automatic backup of data and easy recovery.
+* Easy view into usage and costs.
 
 ## Related projects
 
