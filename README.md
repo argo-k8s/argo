@@ -25,3 +25,5 @@ One click to create a new community (organization, domain) and another click to 
 * [Rancher](https://rancher.com/) – too technical and not suitable for end-users to manage their apps
 * [Flux CD](https://fluxcd.io/) – easy to automatically deploy apps to the cluster, but targeting devops and not end-users
 * [cPanel](https://cpanel.net/) – provides some similar ideas of easy to deploy web apps, but does not user modern containerization
+* [Sandstorm](https://sandstorm.io/) – platform for self-hosting of apps with heavy focus on security, requires a custom way of bundling apps, but this project uses Docker
+  and builds upon Kubernetes to do the heavy lifting
