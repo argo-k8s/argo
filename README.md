@@ -1,6 +1,7 @@
 # Argo
 
-An end-user centered Kubernetes dashboard to run apps in the cloud. One click to create a new community (organization, domain) and another click to deploy an app for the new community.
+An end-user centered [Kubernetes](https://kubernetes.io/) dashboard to run apps in the cloud.
+One click to create a new community (organization, domain) and another click to deploy an app for the new community.
 
 ## Planned features
 
@@ -20,6 +21,7 @@ An end-user centered Kubernetes dashboard to run apps in the cloud. One click to
 
 * [G Suite](https://en.wikipedia.org/wiki/G_Suite) – an inspiration for this project with great ease of use for an end-user, but not open source and thus not reusable, moreover,
   this project generalizes apps available to domains (which we call communities) to be customizable and resuable using Helm Charts, we hope for a similar user experience and ease
-  of creating new domains and how apps are integrated, while all the technical details of running those apps on the cloud are hidden from the user
+  of creating new domains and how suite of apps is then available to users, while all the technical details of running those apps on the cloud are hidden from the user
 * [Rancher](https://rancher.com/) – too technical and not suitable for end-users to manage their apps
 * [Flux CD](https://fluxcd.io/) – easy to automatically deploy apps to the cluster, but targeting devops and not end-users
+* [cPanel](https://cpanel.net/) – provides some similar ideas of easy to deploy web apps, but does not user modern containerization
