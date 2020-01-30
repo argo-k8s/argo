@@ -27,3 +27,4 @@ One click to create a new community (organization, domain) and another click to 
 * [cPanel](https://cpanel.net/) – provides some similar ideas of easy to deploy web apps, but does not user modern containerization
 * [Sandstorm](https://sandstorm.io/) – platform for self-hosting of apps with heavy focus on security, requires a custom way of bundling apps, but this project uses Docker
   and builds upon Kubernetes to do the heavy lifting
+* [Helm](https://helm.sh/) – package manager for Kubernetes allowing one to easily deploy apps, this project uses it internally and could be seen as a web dashboard for Helm
