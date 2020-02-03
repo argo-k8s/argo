@@ -10,7 +10,7 @@ One click to create a new community (organization, domain) and another click to 
 * Deployment to an underlying Kubernetes cluster is hidden from the user, but can still inspect it if the user interested/knowledgable.
 * Support for easy upgrade to new versions of apps: allowing users to enable auto-upgrade or to trigger upgrades manually.
 * Out-of-the-box best practices for managing a secure cluster and running apps.
-* Stable GraphQL API, which is used by Argo's frontend as well.
+* Stable API, which is used by Argo's frontend as well.
 * Automatic domain (including custom domains) and SSL management.
 * Automatic backup of data and easy recovery.
 * Easy view into usage.
